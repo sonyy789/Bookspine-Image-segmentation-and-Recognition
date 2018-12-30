@@ -1,7 +1,8 @@
 # Bookspine-Image-segmentation-and-Recognition
 Bookspine Segmentation that divde a book Image from bookshelf Image, Bookspine Recognition is matching procedure Using feature extraction.
 Book management system using computer vision.
-This is sample version of that system.
+
+    This is sample version of that system.
 
 Original Image
 <img src="https://user-images.githubusercontent.com/16300242/50549836-5c5a3c00-0ca7-11e9-98ec-e677209043ca.JPG" width="90%"></img>
