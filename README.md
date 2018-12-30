@@ -31,5 +31,5 @@ Matching Using SIFT, BF-matching
 This is sample version. 
 Compare between segmented Image.
 
-In real Server, Compare segmented Image and real book Image from camera.
-Plus, Stored pre-calculated Data(keypoints & descriptors) to database for using SIFT(higher matching rate.)
+    In real Server, Compare segmented Image and real book Image from camera.
+    Plus, Stored pre-calculated Data(keypoints & descriptors) to database for using SIFT(higher matching rate.)
